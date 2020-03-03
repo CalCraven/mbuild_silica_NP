@@ -1,0 +1,3 @@
+[mbuild.plugins]
+build_silica_NP = build_silica_NP.build_silica_NP:build_silica_NP
+
