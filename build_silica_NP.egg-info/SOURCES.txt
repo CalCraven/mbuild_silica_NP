@@ -1,8 +1,0 @@
-README.md
-setup.py
-build_silica_NP.egg-info/PKG-INFO
-build_silica_NP.egg-info/SOURCES.txt
-build_silica_NP.egg-info/dependency_links.txt
-build_silica_NP.egg-info/entry_points.txt
-build_silica_NP.egg-info/not-zip-safe
-build_silica_NP.egg-info/top_level.txt
